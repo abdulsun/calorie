@@ -1,0 +1,80 @@
+body{
+    background: url("img/bg-calorei.png") no-repeat center fixed; 
+    background-size: cover;
+    font-family: "Times New Roman", Times, serif;
+  }
+  .calorei{
+      position: absolute;
+      width: 70%;
+      height: 70%;
+      top: 100px;
+      left: 15%;
+      background-color: rgb(123, 115, 112);
+      border-radius: 20px;
+  }
+  #img-kall{
+      margin: 100px 0 0 100px; 
+  }
+  h1{
+      margin-bottom: 50px;
+      font-size: 40px;
+      color: white;
+      text-shadow: 2px 2px 4px #a9e4fa;
+  }
+  #calculate-kall{
+      text-align: center;
+      position: absolute;
+      top: 50px;
+      right: 50px;
+      width: 60%;
+      height: 420px;
+      border-radius: 20px;
+      background-color: white;
+  }
+  #time {
+      font-weight: bolder;
+      margin: 40px 0 0 0;
+      font-size: 28px;
+      text-shadow: 2px 2px 6px #41108a;
+  }
+  #period{
+      width: 130px;
+      margin: 40px 20px;
+      font-size: 22px;
+      padding: 10px 5px;
+      border-radius: 10px;
+  }
+  #submit{
+      background-color: red;
+      margin-left: 30px;
+      font-size: 25px;
+      color: white;
+      width: 100px;
+      border-radius: 10px;
+  }
+  #show{
+      margin: 50px 0 0 50px;
+      font-weight: bolder;
+      font-size: 20px;
+      width: 85%;
+      height: 160px;
+      border-radius: 20px;
+      background-color: rgb(206, 206, 206);
+  }
+  #congrat{
+      font-weight: bolder;
+      padding-top: 20px;
+      margin-left:  10px;
+      font-size: 35px;
+      text-shadow: 2px 2px 2px #626065;
+  }
+  p{
+      font-size: 20px;
+  }
+  #output{
+      padding: 8px 30px;
+      margin: 10px 20px;
+      border-radius: 8px;
+      background-color: white;
+  }
+  
